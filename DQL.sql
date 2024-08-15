@@ -45,6 +45,7 @@ SELECT * FROM customer
 WHERE email LIKE '%@jedi.com';
 
 
+
 -- BETWEEN
 
 SELECT * FROM orders;
